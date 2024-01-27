@@ -1,0 +1,7 @@
+{
+  "@@locale": "ko",
+  "counterAppBarTitle": "카운터",
+  "@counterAppBarTitle": {
+    "description": "앱바의 타이틀"
+  }
+}
